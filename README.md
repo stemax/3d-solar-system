@@ -36,7 +36,7 @@ This project is a **3D Solar System simulation** built with **Three.js**, featur
    ```
    solar-system.html
    ```
-
+   
 ---
 
 ## 🎥 Demo
@@ -53,9 +53,19 @@ View the live project demo here: [**Live Demo**](#)
 ---
 
 ## 📜 License
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license (CC BY-NC 4.0). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license (CC BY-NC 4.0). See the [Licence](http://creativecommons.org/licenses/by-nc/4.0/) file for details.
 
-If you wish to use this project for **commercial purposes**, please contact me at [your-email@example.com](mailto:your-email@example.com).
+If you wish to use this project for **commercial purposes**, please contact author.
+
+**You are free to**:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes without prior consent from the author.
+
+To view a copy of this [Licence](http://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
