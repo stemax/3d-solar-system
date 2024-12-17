@@ -1,7 +1,7 @@
 body {
     margin: 0;
     overflow: hidden;
-    background: #000000 url("bg_stars.png") repeat;
+    background: #000000 url("./bg_stars.png") repeat;
 }
 
 canvas {
