@@ -40,7 +40,7 @@ This project is a **3D Solar System simulation** built with **Three.js**, featur
 ---
 
 ## 🎥 Demo
-View the live project demo here: [**Live Demo**](#) 
+View the live project demo here: [**Live Demo**](https://stemax.github.io/3d-solar-system/solar-system.html) 
 
 ---
 
